@@ -1,0 +1,63 @@
+# VP_Ellipsis.txt
+# (C) 2023 by Soyoung Kim <sk135@iu.edu>
+# language: kor
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+# Source: https://doi.org/10.1162/ling_a_00486 2022 D Park
+# 
+
+
+
+
+Anna-nun caki-ka khu-ta-ko sayngkak an-ha-n-ta . Mary-nun ___ ha-n-ta .
+----
+Anna-nun caki-ka khu-ta-ko sayngkak an-ha-n-ta . Mary-nun caki-ka khu-ta-ko sayngkak ha-n-ta
+#'Anna doesn't think she is tall. Mary does.'
+
+
+Chelswu-ka caki-uy phyenci-lul peli-ess-ta . Yengswu-to ___ kura-yss-ta .
+----
+Chelswu-ka caki-uy phyenci-lul peli-ess-ta . Yengswu-to caki-uy phyenci-lul peli-ess-ta .
+#‘Chelswu1 threw out his letter. Yengsw did too.’
+
+
+John-un caki-ka khu-ta-ko sayngkak an-ha-n-ta . Bill-un ___ ha-n-ta .
+----
+John-un caki-ka khu-ta-ko sayngkak an-ha-n-ta . Bill-un caki-ka khu-ta-ko sayngkak ha-n-ta .
+#‘John doesn’t think that he is tall. Bill does.’
+
+John-un caki-ka khu-ta-ko sayngkak an-ha-n-ta . Bill-to ___ an-ha-n-ta .
+----
+John-un caki-ka khu-ta-ko sayngkak an-ha-n-ta . Bill-un caki-ka khu-ta-ko sayngkak an-ha-n-ta .
+#‘John doesn’t think that he is tall. Bill also doesn't.’
+
+
+John-un Mary-ka chakha-ta-ko sayngkak an-ha-n-ta . Tom-do ___ kureh-ta .
+----
+John-un Mary-ka chakha-ta-ko sayngkak an-ha-n-ta . Tom-do Mary-ka chakha-ta-ko sayngkak an-ha-n-ta .
+#‘John doesn’t think that Mary is nice. Tom also doesn't think that Mary is nice.’
+
+
+Simcie, nay-ka ___ ha-n kes-pota-to te manhun nonmwun-ul Mary-nun ssu-ess-ta .
+----
+Simcie, nay-ka nonmwun-ul ssu-n kes-pota-to te manhun nonmwun-ul Mary-nun ssu-ess-ta .
+#‘Mary wrote more papers than I even did(wrote).’
+
+
+John-un caki-uy kay-wa kotcal sanpo-lul ha-n-ta . Kulena Bill-un ___ an-i-ta .
+----
+John-un caki-uy kay-wa kotcal sanpo-lul ha-n-ta . Kulena Bill-un caki-uy kay-wa kotcal sanpo-lul an-ha-n-ta.
+'John often takes a walk with his dog. But Bill doesn't.'
+
+
+
+
+
+
+
+
+
+
+
+
+

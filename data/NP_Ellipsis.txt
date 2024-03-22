@@ -1,0 +1,180 @@
+# NP_Ellipsis.txt
+# (C) 2023 by Soyoung Kim <sk135@iu.edu>
+# language: kor
+# Notes: ul~lul are allomorphs, un~nun are allomorphs. some of the examples are arguably V-Stranding VP ellipsis -- regardless they are listed here based on that the NPs are the ellided phrases.
+# These are all grammatical examples. The elided positions are indicated by ___. 
+# Source:
+# SY Park 2021 https://doi.org/10.1515/ling-2021-0065
+
+
+
+na-nun nonmun twu phyen-ul ilk-ess-ko, ku-nun ___ sey phyen-ul ilk-ess-ta
+----
+na-nun nonmun twu phyen-ul ilk-ess-ko, ku-nun nonmun sey phyen-ul ilk-ess-ta
+#‘I read two papers, and he read three.’
+
+
+
+na-nun twu-phyen-uy nonmun-ul ilkess-ko, ku-nun sey-phyen-___-ul ilk-ess-ta
+----
+na-nun twu-phyen-uy nonmun-ul ilkess-ko, ku-nun sey-phyen-uy nonmun-ul ilk-ess-ta.
+#‘I read two papers, and he read three.’
+
+
+
+ku-un Halle-uy nonmun twu-phyen-ul ilk-ess-ko, na-nun Chomsky-___ sey-phyen-ul ilk-ess-ta.
+----
+ku-un Halle-uy nonmun twu-phyen-ul ilk-ess-ko, na-nun Chomsky-uy nonmun sey-phyen-ul ilk-ess-ta.
+#‘He read Halle’s two papers, and I read Chomsky’s three (papers).’
+
+
+ku-un Halle-uy nonmun-ul twu-phyen ilk-ess-ko, na-nun Chomsky-___-lul sey-phyen ilk-ess-ta.
+----
+ku-un Halle-uy nonmun-ul twu-phyen ilk-ess-ko, na-nun Chomsky-uy nonmun-ul sey-phyen ilk-ess-ta.
+#‘He read two of Halle’s papers, and I read three Chomsky’s (papers).’
+
+
+na-nun 1981 nyento-uy nonmun-pota 1995 nyento-uy ___ kes-i te cohta.
+----
+na-nun 1981 nyento-uy nonmun-pota 1995 nyento-uy nonmun-i te cohta.
+#‘I prefer a paper in 1995 over the one in 1981.’
+
+
+na-nun Cheli-uy nonmun-ul ilk-ess-ko, ku-nun Yengi-uy ___ kes-ul ilk-ess-ta.
+----
+na-nun Cheli-uy nonmun-ul ilk-ess-ko, ku-nun Yengi-uy nonmun-ul ilk-essta.
+#‘I read Cheli’s paper, and he read Yengi’s.’
+
+
+nay-ka san chayk-un ku-ka san ___ kes-pota te pissa-ta.
+----
+nay-ka san chayk-un ku-ka san chayk-pota te pissa-ta.
+#‘The book that I bought is more expensive than the one that he bought.’
+
+
+hen sinpal-i say ___ kes-pota te phyen-ha-ta.
+----
+hen sinpal-i say sinpal-pota te phyen-ha-ta.
+#‘Old shoes are more comfortable than new ones.’
+
+
+na-nun san-eyse-uy sacin-pota pata-eyse-uy ___ kes-i te cohta.
+----
+na-nun san-eyse-uy sacin-pota pata-eyse-uy sacin-i te cohta.
+#‘I prefer a photo on the sea over one on the mountain.’
+
+
+
+alphusu sacin-un cal nawass-ciman, himallaya ___-nun hulis-ha-ta.
+----
+alphusu sacin-un cal nawa-ss-ciman, himallaya sacin-nun hulis-ha-ta.
+#‘The photo of the Alps is good, but the photo of the Himalayas is blurry.’
+
+
+kwuke munpep kanguy-nun swukang-ha-yss-ciman, yenge munpep ___-un swukangha-ci mos-ha-yss-ta.
+----
+kwuke munpep kanguy-nun swukang-ha-yss-ciman, yenge munpep kanguy-un swukangha-ci mos-ha-yss-ta.
+#‘I took the Korean grammar lecture but couldn’t take the English grammar.’
+
+
+alphusu-uy sacin twu cang-un cal nawass-ciman himallaya-uy ___ twu cang-un nemu hulishata.
+----
+alphusu-uy sacin twu cang-un cal nawass-ciman himallaya-uy sacin twu cang-un nemu hulishata.
+#‘The two photos of the Alps are good, but the two of the Himalayas are too blurry.’
+
+
+kwuke munpep-uy kanguy sam hakcem-un swukang-ha-yss-ciman yenge munpep-uy ___ sam hakcem-un swukang-ha-ci mos-ha-yss-ta.
+----
+kwuke munpep-uy kanguy sam hakcem-un swukang-ha-yss-ciman yenge munpep-uy kanguy sam hakcem-un swukang-ha-ci mos-ha-yss-ta.
+#‘I took the three-units of lectures of Korean grammar, but could not take the three-units of English grammar.’
+
+
+
+alphusu-uy twu cang-uy sacin-un cal nawass-ciman himallaya-uy twu cang-__-un nemu hulishata.
+----
+alphusu-uy twu cang-uy sacin-un cal nawa-ss-ciman himallaya-uy twu cang-uy sacin-un nemu hulis-ha-ta.
+#‘The two photos of the Alps are good, but the two of the Himalayas are too blurry.’
+
+
+
+kwuke munpep sam hakcem kanguy-nun swukang-ha-yss-ciman yenge munpep ___-un swukang-ha-ci mos-ha-yss-ta.
+----
+kwuke munpep sam hakcem kanguy-nun swukang-ha-yss-ciman yenge munpep sam hakcem kanguy-nun swukang-ha-ci mos-ha-yss-ta.
+#‘I took the three-units of lectures of Korean grammar but could not take the three-units of English grammar.’
+
+
+
+
+paypyengwoo-uy sacin twu cang-un cal naw-ass-ciman coseyhyen-uy ___ twu cang-un nemu hulis-ha-ta.
+----
+paypyengwoo-uy sacin twu cang-un cal naw-ass-ciman coseyhyen-uy sacin twu cang-un nemu hulis-ha-ta.
+#‘Byung-Woo Bae’s two photos are good, but Sey-Hyun Cho’s two are too blurry.’
+
+
+alphusu sacin twu cang-un cal nawa-ss-ciman himallaya ___ twu cang-un nemu hulis-ha-ta.
+----
+alphusu sacin twu cang-un cal nawa-ss-ciman himallaya sacin twu cang-un nemu hulis-ha-ta.
+#‘The two photos of the Alps are good, but the two of the Himalayas are too blurry.’
+
+
+
+na-nun osip-cang-uy nonmun-ul ilk-ess-ko, ku-nun payk-cang-uy ___ kes-ul ilk-ess-ta.
+----
+na-nun osip-cang-uy nonmun-ul ilk-ess-ko, ku-nun payk-cang-uy nonmun-ul ilk-ess-ta
+#‘I read a paper with 50 pages and he read a paper with 100 pages.’
+
+
+na-nun osip-cang-uy nonmun-ul ilk-ess-ko, ku-nun payk-cang-___-ul ilk-ess-ta.
+----
+na-nun osip-cang-uy nonmun-ul ilk-ess-ko, ku-nun payk-cang-uy nonmun-ul ilk-ess-ta.
+#‘I read 50 pages of a paper and he read 100 pages.’
+
+
+na-nun nonmun osip-cang-ul ilk-ess-ko, ku-nun ___ payk-cang-ul ilk-ess-ta.
+----
+na-nun nonmun osip-cang-ul ilk-ess-ko, ku-nun nonmun payk-cang-ul ilk-ess-ta.
+#‘I read 50 pages of a paper and he read 100 pages.’
+
+
+na-nun nonmun-ul osip-cang ilk-ess-ko, ku-nun ___ payk-cang ilk-ess-ta.
+----
+na-nun nonmun-ul osip-cang-ul ilk-ess-ko, ku-nun nonmun-ul payk-cang ilk-ess-ta.
+#‘I read 50 pages of a paper and he read 100 pages.’
+
+
+
+John-i Tom-i ___ ssu-ess-ta-ko sayngkak-ha-n kes-pota te manhun nonmwun-ul Mary-nun ssu-ess-ta .
+----
+John-i Tom-i nonmwun-ul ssu-ess-ta-ko sayngkak-ha-n kes-pota te manhun nonmwun-ul Mary-nun ssu-ess-ta.
+#‘Mary wrote more papers than John thought that Tom wrote.’
+
+
+Chelswu-ka Yenghi-na Swuni-lul cohaha-nun-te , Minswu-to ____ cohaha-n-ta .
+----
+Chelswu-ka Yenghi-na Swuni-lul cohaha-nun-te , Minswu-to Yenghi-na Swuni-lul cohaha-n-ta .
+#'Chelswu likes Yenghi or Swuni, and Minswu also likes (either of them).'
+
+Chelswu-ka chayk-ul  ponay-ss-ta . Minswu-nun kkoch-ul ____ ponay-ss-ta .
+----
+Chelswu-ka chayk-ul Yenghi-na Swuni-eykey ponay-ss-ta . Minswu-nun kkoch-ul Yenghi-na Swuni-eykey ponay-ss-ta .
+#'Chelswu sent a book to either Yenghi or Swuni. Minswu sent flowers to either of them.'
+
+
+
+Cheli-nun chayk-ul chayksang-wuy-ey noh-ass-ko , Mini-nun kongchayk-ul ___ noh-ass-e .
+----
+Cheli-nun chayk-ul chayksang-wuy-ey noh-ass-ko , Mini-nun kongchayk-ul chayksang-wuy-ey noh-ass-e .
+#'Cheli put a book on the desk , and Mini put a notebook on the desk.'
+
+
+Chelswu-nun phica ttonun sphakeythi-lul cohaha-ci anh-nun-ta . Tongswu-to _______ cohaha-ci anh-nun-ta .
+----
+Chelswu-nun phica ttonun sphakeythi-lul cohaha-ci anh-nun-ta . Tongswu-to  phica ttonun sphakeythi-lul cohaha-ci anh-nun-ta .
+#‘lit. Chelswu does not like either pizza or spaghetti. Tongswu also does not like’
+
+
+
+Cheli-nun kulen iyu-lo cip-ul ttena-ss-ko , Yenghi-to ____ ttena-ss-ta .
+----
+Cheli-nun kulen iyu-lo cip-ul ttena-ss-ko , Yenghi-to cip-ul ttena-ss-ta .
+#'Cheli left home for that reason and Yenghi left home, too.'

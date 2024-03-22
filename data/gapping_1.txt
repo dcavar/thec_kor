@@ -1,0 +1,49 @@
+# gapping_1.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>, Soyoung Kim <sk135@iu.edu>
+# language: kor
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+# Source:
+# Gapping in V+ko construction in Korean as dependent ellipsis. Young Sik Choi (Soonchunhyang University), 2019
+# https://doi.org/10.24303/lakdoi.2019.27.3.75
+
+John-un chayk-ul ___ , Mary-nun sinmwun-ul ilk-ess-ta .
+----
+John-un chayk-ul ilk-ess-ko , Mary-nun sinmwun-ul ilk-ess-ta .
+# John-TOP book-ACC read-and Mary-TOP newspaper-ACC read-PAST-IND
+# ‘John read a book and Mary read a newspaper.’
+# (Ø = ilk-ess-ko ‘read-and’)
+
+John-un chayk-ul ___ , kuliko Mary-nun sinmwun-ul ilk-ess-ta .
+----
+John-un chayk-ul ilk-ess-ta , kuliko Mary-nun sinmwun-ul ilk-ess-ta .
+# John-TOP book-ACC read and Mary-TOP newspaper-ACC read-PAST-IND
+# ‘John read a book and Mary read a newspaper.’
+# (Ø = ilk-ess-ta ‘read’)
+
+John-un yelshimhi chayk-ul ___ , Mary-nun coyonghi sinmwun-ul ilk-ess-ta .
+----
+John-un yelshimhi chayk-ul ilk-ess-ko , Mary-nun coyonghi sinmwun-ul ilk-ess-ta .
+# John-TOP earnestly book-ACC read-and Mary-TOP quietly newspaper-ACC read-PAST-IND
+# ‘John read a book earnestly and Mary read a newspaper quietly.’
+# (Ø = ilk-ess-ko ‘read-and’)
+
+John-un chayk-ul ___ , Mary-nun sinmwun-ul ilk-ess-ta .
+----
+John-un chayk-ul ilk-ko , Mary-nun sinmwun-ul ilk-ess-ta .
+# John-TOP book-ACC read-and Mary-TOP newspaper-ACC read-PAST-IND
+# ‘John read a book and Mary read a newspaper.’
+# (Ø = ilk-ko ‘read-and’
+
+John-un chayk-ul ___ , Mary-nun sinmwun-ul ___ , Tom-un capci-lul ilk-ess-ta .
+----
+John-un chayk-ul ilk-ess-ko , Mary-nun sinmwun-ul ilk-ess-ko , Tom-un capci-lul ilk-ess-ta .
+# John-TOP book-ACC read-and Mary-TOP newspaper-ACC read-and Tom-TOP magazine-ACC read-PAST-IND
+# ‘John read a book, Mary read a newspaper and Tom read a magazine.’
+# (Ø = ilk-ess-ko ‘read-and’ )
+
+
+John-un cip-eyse ___ , Mary-nun kapey-eyse ___ , Tom-un tosekwan-eyse kongbu-ha-yss-ta .
+----
+John-un cip-eyse kongbu-ha-ko , Mary-nun kapey-eyse kongbu-ha-ko , Tom-un tosekwan-eyse kongbu-ha-yss-ta .
+# John studied at home, Mary studied at cafe, and Tom studied at the library.
